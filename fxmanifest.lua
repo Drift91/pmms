@@ -23,7 +23,9 @@ files {
 	"ui/mediaelement.min.js",
 	"ui/chineserocks.ttf",
 	"ui/loading.svg",
-	"ui/wave.js"
+	"ui/wave.js",
+	"ui/all.min.js",
+	"ui/fa-solid-900.woff2",
 }
 
 ui_page "ui/index.html"
